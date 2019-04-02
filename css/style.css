@@ -1,0 +1,21 @@
+body {
+  background: #f4f4f4;
+}
+
+body .main-div {
+  width: 100%;
+  height: 500px;
+  background-color: #222;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body .main-div h2 {
+  color: #fff;
+  text-align: center;
+}
+
+body .main-div h2 span {
+  background-color: blue;
+}
